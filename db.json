@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Max",
+      "lastName": "James",
+      "isEnabled": false
+    },
+    {
+      "id": 2,
+      "firstName": "Will",
+      "lastName": "Rock",
+      "isEnabled": false
+    },
+    {
+      "id": 3,
+      "firstName": "Luciano",
+      "lastName": "Hyde",
+      "isEnabled": true
+    },
+    {
+      "id": 4,
+      "firstName": "Tomi",
+      "lastName": "Peters",
+      "isEnabled": true
+    },
+    {
+      "id": 5,
+      "firstName": "Jagdeep",
+      "lastName": "Chamberlain",
+      "isEnabled": false
+    },
+    {
+      "id": 6,
+      "firstName": "Estelle",
+      "lastName": "Riley",
+      "isEnabled": false
+    },
+    {
+      "id": 7,
+      "firstName": "Charlene",
+      "lastName": "Morin",
+      "isEnabled": true
+    },
+    {
+      "id": 8,
+      "firstName": "Abigale",
+      "lastName": "Mohammed",
+      "isEnabled": false
+    },
+    {
+      "id": 9,
+      "firstName": "Alaw",
+      "lastName": "Hodson",
+      "isEnabled": true
+    },
+    {
+      "id": 10,
+      "firstName": "Craig",
+      "lastName": "Manning",
+      "isEnabled": true
+    }
+  ]
+}

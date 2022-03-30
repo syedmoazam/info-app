@@ -5,7 +5,7 @@ import { useForm } from "react-hook-form";
 
 const FormInput = (props: any) => (
   <div className="user-details-input">
-    <Input label={props.label} />
+    <Input type={props.type} label={props.label} />
   </div>
 );
 
