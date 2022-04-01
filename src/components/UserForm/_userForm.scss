@@ -1,0 +1,17 @@
+.form-bg{
+    border: 1px solid rgb(179, 171, 171);
+    padding: 30px 80px;
+    border-radius: 10px;
+    align-items: center;
+    height: 66.5vh;
+    padding-top: 10px;
+    background-color: #dfdfdf;
+
+    & small{
+        color: red;
+    }
+}
+
+.user-details-input {
+    width: 25rem !important;
+}
